@@ -1,0 +1,20 @@
+/* @import url("non.geist"); */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  -ms-overflow-style: none;
+  /* font-family: "Geist Variable"; */
+}
+
+/* .scrolling-wrapper {
+  -webkit-overflow-scrolling: touch;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+html {
+  scrollbar-width: none;
+} */
